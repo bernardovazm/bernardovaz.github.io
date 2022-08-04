@@ -1,2 +1,2 @@
-# bernardovaz.github.io
- Simple Responsive Restaurant Landing Page
+# Simple Responsive Restaurant Landing Page
+ Just a simple page using the basics of HTML, CSS and Javascript.
