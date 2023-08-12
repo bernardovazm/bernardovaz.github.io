@@ -333,7 +333,7 @@ footer i.fa:hover {
         margin: 0 10px;
     }
     .imgBanner img {
-        max-width: 400px;
+        max-width: 100%;
     }
 }
 
